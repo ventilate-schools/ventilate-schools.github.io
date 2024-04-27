@@ -1,0 +1,17 @@
+# This is the default format.
+# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink: /:year/:month/:day/:title/
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+highlighter: rouge
+lsi: false
+markdown: kramdown
+future: true
+
+title : Schools Ventilation Progress
+
+production_url : https://VentilationProject.github.io/
+
+plugins:
+  - jekyll-redirect-from
+  - include_relative
