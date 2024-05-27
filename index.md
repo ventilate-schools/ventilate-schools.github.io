@@ -160,13 +160,17 @@ If the windows are open then CO&#8322; will not build up so fast, but there has 
 
 ### Proof of concept: Wales
 
-While we prove the concepts of this particular initiative, we are focusing only on Wales within the UK for now, as it is a small amount of schools and we can gauge community participation in this effort.
+EXPERIMENT: While we prove the concepts of this particular initiative, we are focusing only on Wales within the UK for now, as it is a small amount of schools and we can gauge community participation in this effort.
 
 **[See a list of schools in Wales](/Wales/)** You've invited to help edit the data within. We have some [](./contribution-rules)
 
-*Other countries may be listed right here, later*
 
-Again, if Welsh schools get some traction on this site, we will be open to other countries (or states, provinces counties, cities within a larger country). For now we just want every school graded, then some of them moving in the right direction.
+### Other Countries?
+
+Other countries may be listed right here later on. Or states/provinces, or even cities if the list of schools would be too large otherwise. Each of these would need (say) ten people willing to oversee the setup and curation of each school's page. Some of those people should be people with a bunch of GitHub skills - maybe software developers who're covid-is-airborne savvy and have kids themselves. Or a school's IT teacher who doesn't want to get reinfected with COVID again.
+
+Again, if Welsh schools get some traction on this site, we will be open to other countries For now we just want every Welsh school graded, then some of them moving in the right direction, before working out if we launch a campaign for more areas of the world.
+
 
 # DIY Air filter resources
 

@@ -8,18 +8,18 @@ permalink: contribution-rules
 
 See something you want to fix?  Here are the rules for contributing to this repository.
 
-1. You should be someone cares that COVID-is-Airborne and that we can mitigate virus transmission by better ventilation work in indoor settings 
-2. **Be nice** and focus on the school-ventilation aspect of this work. That is be nice to each other and to school officials, etc. That should cover what we write for the site and the systems supporting this activity, but on the phone or in person with others too. Read HBR's [How to Disagree with Someone More Powerful than You](https://hbr.org/2016/03/how-to-disagree-with-someone-more-powerful-than-you). Know that school officials are under pressure from people far above them in terms of power, too.
-3. Own your mistakes and be objective - be ready to fix-up or improve something you're in the process of contributing.
-2. Don't overwhelm school officials, during your research activities. As noted before, they are under pressure. 
-3. Related: If you're in contact with a school itself already (you have kids there) then use the channels you already have to get facts. If you've no kids in that school then maybe only get facts to add to a school's page from searching online - and don't yourself make contact with the school officials.
-3. Don't write "School principal Freddie told me they would never do X or Y on the phone" - Instead link to authoritative sources, and change the school's page. "Focus group members raised the need to do X and Y on July 1st 2024, without school agreement to do them at that time"
-3. No [doxing](https://en.wikipedia.org/wiki/Doxing).
-6. Don't use anonymous participation in this work to be obnoxious. Everything we want is perfectly reasonable and legal to push for so use your real name if you can. That's also why we ask you to be polite.
-7. Seek help with the dual language aspects of this work if you need to. Welsh **AND** English are official languages in Wales
-5. Use Pull-Requests (GitHub concept, see below for an easy enough workflow) please. Work with someone who has pull-request skills and experience, and trust that's not hard to learn. Issues for each GitHub repo is also open for contribution but it less respectful of maintainers time who would typically prefer Pull-Requests.
-7While Emerson said "A foolish consistency is the hobgoblin of little minds", we are going to try to keep some consistent datapoints across all of the school entries in this site
-8If you organize outside the confines of this GitHub repo for your school, please follow the same rules (high esteem, be nice, no doxing), and link to that effort in the page. Be open to others reaching out in that channel. Be wary of infiltration by people/bots that do not want ventilation or air-filtration for schools.
+1. You should be someone cares that COVID-is-Airborne and that we can mitigate virus transmission by better ventilation work in indoor settings
+2. You will not try to platform other agenda items. Both anti-vax and pro-vax people may disagree on that but agree on ventilation, air-filtration, CO2 monitoring for schools. Vaccines is just one divisive topic that should be left elsewhere.
+3. **Be nice** and focus on the school-ventilation aspect of this work. That is be nice to each other and to school officials, etc. That should cover what we write for the site and the systems supporting this activity, but on the phone or in person with others too. Read HBR's [How to Disagree with Someone More Powerful than You](https://hbr.org/2016/03/how-to-disagree-with-someone-more-powerful-than-you). Know that school officials are under pressure from people far above them in terms of power, too.
+4. Don't overwhelm school officials, during your research activities. As noted before, they are under pressure. 
+5. Related: If you're in contact with a school itself already (you have kids there) then use the channels you already have to get facts. If you've no kids in that school then maybe only get facts to add to a school's page from searching online - and don't yourself make contact with the school officials.
+6. Don't write "School principal Freddie told me they would never do X or Y on the phone" - Instead link to authoritative sources, and change the school's page. "Focus group members raised the need to do X and Y on July 1st 2024, without school agreement to do them at that time"
+7. No [doxing](https://en.wikipedia.org/wiki/Doxing).
+8. Own your mistakes and be objective - be ready to fix-up or improve something you're in the process of contributing.
+9. Don't use anonymous participation in this work to be obnoxious. Everything we want is perfectly reasonable and legal to push for so use your real name if you can. That's also why we ask you to be polite.
+10. Seek help with the dual language aspects of this work if you need to. e.g. Welsh **AND** English are official languages in Wales. 
+11. Use Pull-Requests (GitHub concept, see below for an easy enough workflow) please. Work with someone who has pull-request skills and experience, and trust that it is not hard to learn. Issues for each GitHub repo is also open for contribution but it less respectful of maintainers time who would typically prefer Pull-Requests.
+12. If you organize outside the confines of this GitHub repo for your school, please follow the same rules (high esteem, be nice, no doxing), and link to that effort in the page. Be open to others reaching out in that channel. Be wary of infiltration by people/bots that do not want ventilation or air-filtration for schools.
 
 # What is GitHub?
 
