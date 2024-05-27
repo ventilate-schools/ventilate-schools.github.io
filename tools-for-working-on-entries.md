@@ -18,7 +18,7 @@ When writing text the page pertinent to a single school, we're writing in a litt
 
 That looks like this [This link links to Google](https://google.com) when the site has been regenerated after a commit
 
-All hyper links start with https:// Some older hyperlinks start with http:// (no s) but that's fewer and fewer over 
+All hyperlinks start with https:// Some older hyperlinks start with http:// (no s) but that's fewer and fewer over 
 time.
 
 ## Google search to find answers
@@ -49,12 +49,10 @@ as of May 2024 because of missing data, but one day there will be a query you ca
 ### AIs in general
 
 It is a bit hit ans miss at the moment if you wanted to get a listo of schools in and area, and also get secondary 
-information for them like website URL.  Try Perplexity.AI, but note that the alrernate AIs leap-frog each other from
+information for them like website URL.  Try Perplexity.AI, but note that the alternate AIs leap-frog each other from
 one week to another.
 
-### Google Search
-
-### Search within a site
+### Google.com - Searching within a site
 
 That best-ventilation school in Texas has a site: Abrome.com. Say it was too big to click around to navigate. You can 
 ask Google to find a single page you might be looking for. Try this in Google's search bar: "ventilation site:https://www.abrome.com". 

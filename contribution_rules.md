@@ -30,6 +30,8 @@ there. If so, your changes go live in about one minute after someone reviews the
 may of course suggests changes on the comments on a "pull request" (see below). If they do, please consider any 
 suggested actions. It could be they accept your contribution them immediately make small changes themselves - that's OK.
 
+We have a [Why GitHub](/site-technologies/) rationale, too.
+
 ## Self setup for making changes on GitHub
 
 First, Make an account on [GitHub.com](https://github.com). Please use a real name or something that passes for it: SamWilliams1234. 

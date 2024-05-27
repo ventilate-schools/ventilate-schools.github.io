@@ -21,6 +21,6 @@ All your great grand-children will know how to use Git, or whatever replaces it.
 # Rationale for Markdown language for page source
 
 * It is ubiquitous these days for this particular use (Jekyll and other static-site-generators; SSGs)
-* Hyperlinks, bolding are easy things to lean on top of it's "plain text" nature. Other people's primer: [https://www.google.com/search?q=leaning+markdown](https://www.google.com/search?q=leaning+markdown)
+* Hyperlinks, bolding are easy things to lean on top of it's "plain text" nature. Other people's primer: [https://www.google.com/search?q=learning+markdown](https://www.google.com/search?q=leaning+markdown)
 
-TODO: link to primer for our purposes
+See also our [tools for working on entries](/tools-for-working-on-entries/)
