@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contribution and Rules
+title: Contributing and Rules
 permalink: contributing-and-rules
 ---
 

@@ -162,8 +162,7 @@ If the windows are open then CO&#8322; will not build up so fast, but there has 
 
 EXPERIMENT: While we prove the concepts of this particular initiative, we are focusing only on Wales within the UK for now, as it is a small amount of schools and we can gauge community participation in this effort.
 
-**[See a list of schools in Wales](/Wales/)** You've invited to help edit the data within. We have some [](./contribution-rules)
-
+**[See a list of schools in Wales](/Wales/)** You've invited to help edit the data within. We have some [](/contributing-and-rules/)
 
 ### Other Countries?
 
