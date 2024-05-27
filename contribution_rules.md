@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Contribution Rules
-permalink: contribution-rules
+title: Contribution and Rules
+permalink: contributing-and-rules
 ---
 
-# Rules / Conduct.
+# Rules / Code of Conduct.
 
 See something you want to fix?  Here are the rules for contributing to this repository.
 
@@ -21,7 +21,9 @@ See something you want to fix?  Here are the rules for contributing to this repo
 11. Use Pull-Requests (GitHub concept, see below for an easy enough workflow) please. Work with someone who has pull-request skills and experience, and trust that it is not hard to learn. Issues for each GitHub repo is also open for contribution but it less respectful of maintainers time who would typically prefer Pull-Requests.
 12. If you organize outside the confines of this GitHub repo for your school, please follow the same rules (high esteem, be nice, no doxing), and link to that effort in the page. Be open to others reaching out in that channel. Be wary of infiltration by people/bots that do not want ventilation or air-filtration for schools.
 
-# What is GitHub?
+# Contributing
+
+## What is GitHub?
 
 Welcome to a bedrock of the software development industry. FOR US, GitHub is the portal WE use for editing and hosting 
 of the generated website. Editing school pages requires you to first create an account on [GitHub.com](https://github.com/signup) 
