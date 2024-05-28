@@ -11,19 +11,17 @@ We have to lower transmission in schools as kids bring it home to parents, too. 
 
 ## COVID is Airborne (a Fact Suppressed at the Start)
 
-Given we now know **COVID-19 is airborne** and even the WHO has accepted that with a long "airborne risk assessment" for COVID-19 [(*)](https://iris.who.int/handle/10665/376346), the world slowly pivots to airborne disease transmission mitigations. In March 2024, after the publication of the WHO document, 33 professors and PhDs pushed for a policy change in an article on **Science.org**: [Mandating indoor air quality for public buildings](https://drive.google.com/file/d/16l_IH47cQtC7fFuafvHca7ORNVGITxx8/view).
+Given we now know **COVID-19 is airborne** and even the WHO has accepted that with a long "airborne risk assessment" for COVID-19 [(*)](https://iris.who.int/handle/10665/376346), the world is slowly pivoting toward engineering to reduce airborne disease transmission. In March 2024, after the publication of the WHO document, 33 professors and PhDs pushed for a policy change in an article on **Science.org**: [Mandating indoor air quality for public buildings](https://drive.google.com/file/d/16l_IH47cQtC7fFuafvHca7ORNVGITxx8/view).
 
-Other diseases are airborne too: Measles (studies [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2810934/pdf/10982072.pdf) [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3880795/pdf/nihms532643.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/31257413/) [4](https://www.sciencedirect.com/science/article/pii/S0196655316305363)), Influenza, RSV, and TB. The same ventilation and air filtration measures reduce transmission of those too.
+Know that other diseases are airborne too: Measles (studies [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2810934/pdf/10982072.pdf) [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3880795/pdf/nihms532643.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/31257413/) [4](https://www.sciencedirect.com/science/article/pii/S0196655316305363)), Influenza, RSV, and TB. The same ventilation and air filtration measures reduce transmission of those too.
 
-## Ventilation Work for Schools
+## Ventilation Work for Schools Allowing Healthy Full Attendance
 
-Better ventilating schools for long-term student and teacher health is the push, but we need to track the progress for that in each country. We should do so ahead of government efforts. If the government starts to track this work, this effort will continue as government efforts might be weak. The published Science.org article highlights schools as a key place for active ventilation work. This should involve mechanical heat recovery ventilation (MHRV), air filtration/cleaning, and CO2 monitoring to drive ventilation levels, as CO2 inside is a proxy indicator for COVID-19 transmission risk. The WHO document details all of these measures too.
+Better ventilating schools for long-term student and teacher health is the engineering push, but we need to track the progress for that in each country. We should do so ahead of government efforts. If the government starts to track this work, this effort will continue as government efforts might be weak. The published Science.org article highlights schools as a key place for active ventilation work. This should involve mechanical heat recovery ventilation (MHRV), air filtration/cleaning, and CO2 monitoring to drive ventilation levels, as CO2 inside is a proxy indicator for COVID-19 transmission risk. The WHO document details all of these measures too.
 
-## Healthy Full Attendance at School
+When we say student and teacher health, we aim to reduce absences by lowering transmission in schools. We also reduce multi-generation transmission outside schools as kids were bringing COVID-19 home and infecting their parents and grandparents. With lowered transmission, we also reduce the incidence of long COVID, where the worst sufferers have disappeared from education and may be unable to earn a living for the rest of their lives.
 
-When we say student and teacher health, we aim to reduce absences. A prior tactic on absences from school was forcing sick people to attend. If we lower transmission in schools, we increase attendance. We also reduce multi-generation transmission outside schools. Kids were bringing COVID-19 home and infecting their parents and grandparents. With lowered transmission, we also reduce long COVID, where the worst sufferers have disappeared from education and may be unable to earn a living for the rest of their lives.
-
-# Action Plan
+# Schools Ventilation Action Plan
 
 To improve school ventilation, there are a number of articles available:
 
@@ -46,15 +44,15 @@ ASHRAE 241 refers to a standard published by the American Society of Heating, Re
 
 CfGS's [25-page toolkit](https://www.usgbc.org/sites/default/files/2024-05/CFGS_IAQ-Toolkit-2024.pdf) is excellent. Their [home page](https://centerforgreenschools.org/).
 
-### A Stylized Classroom
+## A Stylized Classroom
 
 | ![classroom_blueprint.png](./classroom_blueprint.jpg) | 
 |:----------------------------------------------------:| 
 | Blueprint depiction of classroom, with false ceiling tiles removed, and A, B & C denoting placement of equipment. |
 
-### What We Need to Do
+### What We Need to Do per Classroom
 
-Better classrooms are already sealed against outside heat, cold, and pollution. Depending on the latitude, some air conditioning, too.
+In 2024, better classrooms are already sealed against outside heat, cold, and pollution. Depending on the latitude, some air conditioning, too.
 
 <!-- Comment: &#8322; is the number two in subscript for CO2 -->
 
@@ -151,7 +149,7 @@ Ideally, #1 & #2 are engineered solutions, fitted by experts and licensed buildi
 
 Note: Ionization of the air is not recommended as it creates ozone, which is harmful to people. Upper room ultraviolet technology may play a part in virus inactivation as the technology reaches mass production.
 
-### CO&#8322; as Proxy Risk
+### CO&#8322; as Proxy Risk Indicator
 
 CO&#8322; builds up as occupants of a room breathe in and out. When occupants leave a room for the final time in a day, CO&#8322; naturally decays towards the outside air concentration (420 parts per million if you're in the countryside). This decay is just slow exchange with lower CO&#8322; ppm air through tiny gaps in walls, windows, and a big gap under the door:
 
@@ -159,27 +157,19 @@ CO&#8322; builds up as occupants of a room breathe in and out. When occupants le
 
 If the windows are open, CO&#8322; will not build up so fast, but there has to be an air current to force air through the room. Over a hundred years ago, Florence Nightingale [campaigned for decades](https://www.google.com/search?q=Florence+Nightingale+stale+air) for windows to be opened to reduce airborne disease transmission in public buildings. She also campaigned for high ceilings in those buildings. Because of the open windows, buildings had to have dialed-up heating systems that would be very expensive today, so we prefer mechanical heat recovery ventilation (MHRV) and energy recovery ventilation (ERV) systems. We can now also scrub the air of viruses (suspended in one-micron size water vapor aerosols) using air filters and cleaners. There are DIY alternatives that are just as good. Air filters do not address the CO&#8322; levels themselves, which can contribute to drowsiness at very high levels. Air filters do address smoke particles from nearby cars and truck exhausts and pollen, though.
 
-## Mapping the World's Schools
+# Mapping the World's Schools
 
-### Proof of Concept: Wales
+## Proof of Concept: Wales
 
 EXPERIMENT: While we prove the concepts of this particular initiative, we are focusing only on Wales within the UK for now, as it has a manageable number of schools and we can gauge community participation in this effort.
 
 **[See a list of schools in Wales](/Wales/)** You're invited to help edit the data within. We have some [](/contributing-and-rules/)
 
-### Other Countries?
+## Other Countries?
 
 Other countries may be listed here later. Or states/provinces, or even cities if the list of schools would be too large otherwise. Each of these would need (say) ten people willing to oversee the setup and curation of each school's page. Some of those people should be individuals with significant GitHub skills - maybe software developers who're COVID-is-airborne savvy and have kids themselves. Or a school's IT teacher who doesn't want to get reinfected with COVID again.
 
 If Welsh schools get some traction on this site, we will be open to other countries. For now, we just want every Welsh school graded, then some of them moving in the right direction, before launching a campaign for more areas of the world.
-
-# DIY Air Filter Resources
-
-* [Try this DIY indoor air purifier to get cleaner air](https://www.youtube.com/watch?v=FJFdLbpNK4Y) - 2.5-minute video from Washington Post
-* [5th Graders Make DIY Air Purifiers for Entire School](https://www.youtube.com/watch?v=qZzzEKElIFo) - 3-minute video from Jeffco Public Schools (Colorado)
-* [The Homemade Air Purifier That’s Been Saving Lives During the COVID-19 Pandemic](https://www.smithsonianmag.com/innovation/homemade-air-purifier-thats-been-saving-lives-during-covid-19-pandemic-180979681/) - Smithsonian Magazine
-* [Do-it-yourself portable air cleaners](https://schools.forhealth.org/diy-air-cleaners/) - Schools For Health site
-* [This DIY box helps clear indoor air of the coronavirus. Why aren’t more people using them?](https://www.latimes.com/california/story/2022-07-20/diy-push-to-rid-indoor-air-of-covid) - L.A. Times
 
 # Grading of Schools
 
@@ -242,6 +232,14 @@ Note: [NDIR sensors are superior to VOC types](https://en.wikipedia.org/wiki/Car
 * Classroom Density: Very low classroom density (< 0.5 students per square meter).
 * The country/state/province/city in question has building codes for schools (old or new) and performs inspections.
 
+# DIY Air Filter Resources
+
+* [Try this DIY indoor air purifier to get cleaner air](https://www.youtube.com/watch?v=FJFdLbpNK4Y) - 2.5-minute video from Washington Post
+* [5th Graders Make DIY Air Purifiers for Entire School](https://www.youtube.com/watch?v=qZzzEKElIFo) - 3-minute video from Jeffco Public Schools (Colorado)
+* [The Homemade Air Purifier That’s Been Saving Lives During the COVID-19 Pandemic](https://www.smithsonianmag.com/innovation/homemade-air-purifier-thats-been-saving-lives-during-covid-19-pandemic-180979681/) - Smithsonian Magazine
+* [Do-it-yourself portable air cleaners](https://schools.forhealth.org/diy-air-cleaners/) - Schools For Health site
+* [This DIY box helps clear indoor air of the coronavirus. Why aren’t more people using them?](https://www.latimes.com/california/story/2022-07-20/diy-push-to-rid-indoor-air-of-covid) - L.A. Times
+
 # Global School Ventilation Improvement Efforts
 
 * Boston, USA: [CO2 monitors in 4322 classrooms](https://bostonschoolsiaq.terrabase.com/)
@@ -250,7 +248,7 @@ Note: [NDIR sensors are superior to VOC types](https://en.wikipedia.org/wiki/Car
 * Latvia: [CO2 monitors in 875 schools and social centers / 14000 classrooms](https://co2.mesh.lv/)
 * Connecticut: Schools have a [state-wide grant for HVAC work to tap into](https://portal.ct.gov/das/grants/hvac-grants?language=en_US) and a [resource on terminology including DIY air filters](https://portal.ct.gov/hvacgrants/-/media/das/office-of-grants-administration/hvac-forms/air-cleaner-and-air-purifier-technology-guidance.pdf)
 
-### NousAerons Site
+## NousAerons Site
 
 French group "Nous Aerons" (Let's Air) lists [dashboards that show live CO2 levels for classrooms](https://nousaerons.fr/#dashboards). Their list includes many of the above.
 
@@ -266,5 +264,7 @@ Australian activists have created [Covid Safety for Schools](https://www.covidsa
 # Site Ownership
 
 This site is edited by volunteers who are interested in accelerating the work to complete the adequate ventilation of schools. This effort was not commissioned by education authorities or governments. The volunteers are in groups around countries, states, provinces, and cities.
+
+If you want to launch another small country (e.g. Luxembourg), or a whole state/province (Nova Scotia), or a City (New York), you should have your own team ready to curate the entries for each school. A decent percentage of that team should have some software development skills and GitHub experience. You'd make a GitHub repo like `Wales` get it ready, then ask us to slot it into the main site. Pick a name that represents the hierarchy - Canada_Nova_Scotia)
 
 [Edit this page](https://github.com/ventilate-schools/ventilate-schools.github.io/edit/main/index.md).
