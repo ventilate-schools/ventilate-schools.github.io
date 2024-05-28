@@ -241,6 +241,7 @@ Note: Ionization of the air is not recommended as it creates ozone, which is har
 * [The Homemade Air Purifier That’s Been Saving Lives During the COVID-19 Pandemic](https://www.smithsonianmag.com/innovation/homemade-air-purifier-thats-been-saving-lives-during-covid-19-pandemic-180979681/) - Smithsonian Magazine
 * [Do-it-yourself portable air cleaners](https://schools.forhealth.org/diy-air-cleaners/) - Schools For Health site
 * [This DIY box helps clear indoor air of the coronavirus. Why aren’t more people using them?](https://www.latimes.com/california/story/2022-07-20/diy-push-to-rid-indoor-air-of-covid) - L.A. Times
+* [Air filter workshops protect people from dangers of wildfire smoke](https://www.sfu.ca/sfunews/stories/2024/05/sfu-air-filter-workshops-protect-people-from-dangers-of-wildfire.html) - Simon Fraser University (video clip says wildfire smoke but these also scrub covids from the air)
 
 # Global school ventilation improvement efforts so far
 
