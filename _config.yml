@@ -10,7 +10,7 @@ future: true
 
 title : Schools Ventilation Progress
 
-production_url : https://VentilationProject.github.io/
+production_url : https://ventilate-schools.github.io/
 
 plugins:
   - jekyll-redirect-from

@@ -1,6 +1,6 @@
 # Deployed site
 
-See [here](https://VentilationProject.github.io/) - final domain choice still TODO
+See [here](https://ventilate-schools.github.io/) - final domain choice still TODO
 
 # Technologies we use and tools for fact-finding 
 

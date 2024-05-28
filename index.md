@@ -267,4 +267,4 @@ Australian activists have created [Covid Safety for Schools](https://www.covidsa
 
 This site is edited by volunteers who are interested in accelerating the work to complete the adequate ventilation of schools. This effort was not commissioned by education authorities or governments. The volunteers are in groups around countries, states, provinces, and cities.
 
-[Edit this page](https://github.com/VentilationProject/VentilationProject.github.io/edit/main/index.md).
+[Edit this page](https://github.com/ventilate-schools/ventilate-schools.github.io/edit/main/index.md).
