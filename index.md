@@ -78,11 +78,14 @@ If the windows are open, CO&#8322; will not build up so fast, but there has to b
 
 # Mapping the world's schools
 
-## Proof of concept: Wales
+## Proof of concept: Wales and a few other smaller school districts elsewhere
 
 EXPERIMENT: While we prove the concepts of this particular initiative, we are focusing only on Wales within the UK for now, as it has a manageable number of schools and we can gauge community participation in this effort.
 
-**[See a list of schools in Wales](/Wales/)** You're invited to help edit the data within. Sake a look at one of the Welsh schools and see what is marked as TODO. We have some advice on [contributing and rules](../contributing-and-rules/), some [tools for working on per school entries](../tools-for-working-on-entries/), and a [discussion of the technologies we use for this site](../site-technologies/)
+* **[See a list of schools in Wales](/Wales/)**
+* **Connecticut, USA** (Bridgeport school district only for now)
+
+* You're invited to help edit the data within. Sake a look at one of the Welsh schools and see what is marked as TODO. We have some advice on [contributing and rules](./contributing-and-rules/), some [tools for working on per school entries](./tools-for-working-on-entries/), and a [discussion of the technologies we use for this site](./site-technologies/)
 
 ## Other countries?
 
