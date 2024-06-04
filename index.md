@@ -82,7 +82,7 @@ If the windows are open, CO&#8322; will not build up so fast, but there has to b
 
 EXPERIMENT: While we prove the concepts of this particular initiative, we are focusing only on Wales within the UK for now, as it has a manageable number of schools and we can gauge community participation in this effort.
 
-* **[See a list of schools in Wales](/Wales/)**
+* UK: **[Wales](Wales/)** - all schools
 * USA: [**Connecticut**](CT/) (Bridgeport school district only for now), [**New Jersey**](NJ/) (Mercer County only for now), [**Rhode Island**](CT/) (Barrington school district only for now)
 * Canada: [**British Columbia**](BC/) (a subset of districts only for now)
 
