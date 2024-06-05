@@ -83,7 +83,7 @@ If the windows are open, CO&#8322; will not build up so fast, but there has to b
 EXPERIMENT: While we prove the concepts of this particular initiative, we are focusing only on Wales within the UK for now, as it has a manageable number of schools and we can gauge community participation in this effort.
 
 * UK: **[Wales](Wales/)** - all schools
-* USA: [**Rhode Island**](RI/), [**Connecticut**](CT/) (Bridgeport school district only for now), [**New Jersey**](NJ/) (Mercer County only for now)
+* USA: [**Rhode Island**](RI/), [**Minnesota**](MN/), [**Connecticut**](CT/) (Bridgeport school district only for now), [**New Jersey**](NJ/) (Mercer County only for now)
 * Canada: [**British Columbia**](BC/) (a subset of districts only for now)
 
 * You're invited to help edit the data within. Sake a look at one of the Welsh schools and see what is marked as TODO. We have some advice on [contributing and rules](./contributing-and-rules/), some [tools for working on per school entries](./tools-for-working-on-entries/), and a [discussion of the technologies we use for this site](./site-technologies/)
