@@ -63,3 +63,28 @@ You find a few links, mostly blog entries, but the first link is a policy page a
 Searching for a school name to fill in the blanks is just fine. Try to worry about the authenticity of the site you 
 have found. Know too that even Wikipedia can be inaccurate for periods of time. This was a real moment in Wikipedia's
 history: [many years of fake Scots language articles added without detection](https://en.wikipedia.org/wiki/Scots_Wikipedia#:~:text=These%20articles%20have%20been%20described%20as%20%22English%20written%20in%20a%20Scottish%20accent%2C%22%20with%20gibberish%20and%20nonsensical%20words%20and%20spellings%20not%20present%20in%20any%20Scots%20dialect).
+
+# Initial population of area data with plenty of TODOs
+
+For a state, province, city, we'd already made a simple list of school districts (not always called districts). Wikipedia sometimes has that. If it is tabular online, you can paste it into Excel or GoogleSheets then pick out the first column just to get the district names.
+
+This is what we're handing to Perplexity.AI (pro mode):
+
+``` 
+For AREANAME school districts ONE, TWO, THREE, FOUR	, make a python dict of all schools (no placeholders) like so: ```schools = {
+    "District Name": [
+    {
+        "school_name": "School Name Here",
+        "address": "School address here with commas",
+        "phone": "school phone number here"
+        "website": "URL here"
+        "student_count": 1234 
+    },
+    {  ...
+    }
+], ...
+}```. If anything can't be found, specify "TODO". Give me the answer in a codefence
+Sources
+```
+
+That's up to 30 districts at a time, but it sometimes stops short of giving you all that you sought. Some copy/paste and changing the prompt to remove previously answered districts is required. That goes into `make_markdown.py` in order to generate the markdown pages per school.
