@@ -64,7 +64,9 @@ Searching for a school name to fill in the blanks is just fine. Try to worry abo
 have found. Know too that even Wikipedia can be inaccurate for periods of time. This was a real moment in Wikipedia's
 history: [many years of fake Scots language articles added without detection](https://en.wikipedia.org/wiki/Scots_Wikipedia#:~:text=These%20articles%20have%20been%20described%20as%20%22English%20written%20in%20a%20Scottish%20accent%2C%22%20with%20gibberish%20and%20nonsensical%20words%20and%20spellings%20not%20present%20in%20any%20Scots%20dialect).
 
-# Initial population of area data with plenty of TODOs
+# Initial population of area data
+
+An area is a whole small country, a state or province. Maybe even a city if it is large. Initial population will lead to a lot of TODOs markers for people to replace with facts after population.
 
 For a state, province, city, we'd already made a simple list of school districts (not always called districts). Wikipedia sometimes has that. If it is tabular online, you can paste it into Excel or GoogleSheets then pick out the first column just to get the district names.
 
@@ -88,3 +90,30 @@ Sources
 ```
 
 That's up to 30 districts at a time, but it sometimes stops short of giving you all that you sought. Some copy/paste and changing the prompt to remove previously answered districts is required. That goes into `make_markdown.py` in order to generate the markdown pages per school.
+
+## Coder setup of a new area
+
+``` 
+## Say Zzz is the name of the area you're wanting to create, and it doesn't make sense to be part of a larger area.
+ 
+mkdir Zzz
+git clone git@github.com:ventilate-schools/MN.git # Minnesota
+cp MN/_config.yml Zzz/ 
+cp MN/Gemfile Zzz/ 
+cp MN/Gemfile.lock Zzz/ 
+cp MN/README.md Zzz/ 
+cp MN/make* Zzz/ 
+cp MN/404.html Zzz/ 
+cp MN/TODO.md Zzz/
+cd Zzz
+git init
+# A git commit here if you're likely to make a mess and want to rollback to undo your mess. 
+```
+
+`make_markdown.py` is the source you want to edit. It'll have `Minnesota` and `MN` refs you'll need to change. The big list-dict at the top is what you'll need to change for your new Perplexity.AI results.
+
+Whenever you've run `make_markdown.py` you'll also need to run `make_grade_subtotals_and_totals.py` too.
+
+Check this in. Turn on Github pages. Change GitHub actions settings to reduce 90 days of log storage to 1 (to be kind to Github). 
+
+When you're ready transfer the GitHub repo ownership to `ventilate-schools` and it should be part of the main site (that's automatic). Keep your admin/committer rights, of course.
