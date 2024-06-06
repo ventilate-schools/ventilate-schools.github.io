@@ -82,7 +82,7 @@ If the windows are open, CO&#8322; will not build up so fast, but there has to b
 
 EXPERIMENT: While we prove the concepts of this particular initiative, we are focusing only on Wales within the UK for now, as it has a manageable number of schools and we can gauge community participation in this effort.
 
-* UK: **[Wales](Wales/)** - all schools
+* UK: **[Wales](Wales/)**, [**Isle of Man**](https://ventilate-schools.its-airborne.org/IoM/)
 * USA: [**Rhode Island**](RI/), [**Minnesota**](MN/), [**Delaware**](DE/), [**Connecticut**](CT/) (Bridgeport school district only for now), [**New Jersey**](NJ/) (Mercer County only for now)
 * Canada: [**British Columbia**](BC/) (a subset of districts only for now)
 
