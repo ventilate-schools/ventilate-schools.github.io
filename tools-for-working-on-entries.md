@@ -91,6 +91,8 @@ Sources
 
 That's up to 30 districts at a time, but it sometimes stops short of giving you all that you sought. Some copy/paste and changing the prompt to remove previously answered districts is required. That goes into `make_markdown.py` in order to generate the markdown pages per school.
 
+Sometimes I can see TODOs when the AI should have been able to find the answers, so I do a follow up request of "too many TODOs" and without comment it has a second go and does it properly.
+
 ## Coder setup of a new area
 
 ``` 
