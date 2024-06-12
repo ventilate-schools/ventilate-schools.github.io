@@ -3,6 +3,10 @@ layout: page
 title: Schools Ventilation Project
 ---
 
+# NEWS
+
+* Jun 11, 2024: [Corsi-Rosenthal Foundation US: Upgrade your air with a DIY classroom project.](https://www.cleanairk12.com/)
+
 # Kids and teachers being sick all the time is not normal
 
 COVID-19 has weakened people's immune systems to many diseases. Those could be repeat infection of Covid-19, or Flu, RSV, Staph, Strep, Measles, and others.
