@@ -82,15 +82,13 @@ If the windows are open, CO&#8322; will not build up so fast, but there has to b
 
 # Mapping the world's schools
 
-## Proof of concept: Wales and a few other smaller school districts elsewhere
-
-EXPERIMENT: While we prove the concepts of this particular initiative, we are focusing only on Wales within the UK for now, as it has a manageable number of schools and we can gauge community participation in this effort.
-
 * UK: **[Wales](Wales/)**, [**Isle of Man**](https://ventilate-schools.its-airborne.org/IoM/)
-* [USA](USA/) - just a few states for now, some partial at that
-* Canada: [**British Columbia**](BC/) (a subset of districts only for now)
+* **[USA](USA/)** - just a few states for now, some partial at that
+* Canada: **[British Columbia](BC/)** (a subset of districts only for now)
 
-* You're invited to help edit the data within. Sake a look at one of the Welsh schools and see what is marked as TODO. We have some advice on [contributing and rules](./contributing-and-rules/), some [tools for working on per school entries](./tools-for-working-on-entries/), and a [discussion of the technologies we use for this site](./site-technologies/)
+You're invited to help edit the data within. Sake a look at one of the Welsh schools and see what is marked as TODO. We have some advice on [contributing and rules](./contributing-and-rules/), some [tools for working on per school entries](./tools-for-working-on-entries/), and a [discussion of the technologies we use for this site](./site-technologies/)
+
+You're also invited to help create a list of schools for your country, state, province, region or large city - contact @Its_Airborne on Twitter/X.com
 
 ## Other countries?
 
