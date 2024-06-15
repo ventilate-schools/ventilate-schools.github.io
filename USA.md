@@ -11,11 +11,11 @@ title: "Schools Ventilation Project: USA"
 
 ## States
 
-* [**Rhode Island**](RI/) - all schools
-* [**Minnesota**](MN/) - all schools
-* [**Delaware**](DE/) - all schools
-* [**Connecticut**](CT/) - Bridgeport school district only for now 
-* [**New Jersey**](NJ/) - Mercer County only for now
+* [**Rhode Island**](../RI/) - all schools
+* [**Minnesota**](../MN/) - all schools
+* [**Delaware**](../DE/) - all schools
+* [**Connecticut**](../CT/) - Bridgeport school district only for now 
+* [**New Jersey**](../NJ/) - Mercer County only for now
 * Others - TODO
 
 ## Cities
