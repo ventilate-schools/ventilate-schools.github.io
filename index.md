@@ -41,7 +41,7 @@ See our [Action Plan](action_plan.md)
 
 * UK: **[Wales](Wales/)**, [**Isle of Man**](https://ventilate-schools.its-airborne.org/IoM/)
 * **[USA](USA/)** - just a few states for now, some partial at that
-* Canada: **[British Columbia](BC/)** (a subset of districts only for now)
+* **[Canada](Canada/)** - just a couple of provinces for now
 
 You're invited to help edit the data within. Sake a look at one of the Welsh schools and see what is marked as TODO. We have some advice on [contributing and rules](./contributing-and-rules/), some [tools for working on per school entries](./tools-for-working-on-entries/), and a [discussion of the technologies we use for this site](./site-technologies/)
 
