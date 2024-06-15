@@ -3,9 +3,7 @@ layout: page
 title: "Schools Ventilation Project: Canada"
 ---
 
-# Sub-divisions of the Canada are by province
-
-## Provinces
+Sub-divisions of Canada are by provinces:
 
 * [**British Columbia**](BC/) - all schools
 * [**Alberta**](AB/) - all schools
