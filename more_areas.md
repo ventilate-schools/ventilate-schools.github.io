@@ -7,11 +7,11 @@ Other countries may be listed here later. Or states/provinces, or even cities if
 
 Some of those people volunteering should be individuals with significant GitHub skills - maybe software developers who're COVID-is-airborne savvy and have kids themselves. Or a school's IT teacher who does not want to get reinfected with COVID again. 
 
-People getting GitHub accounts to do this work may be happy to pick a pseudo-name that doesn't identify them. With that, each sub group should work out how to trust the contributors and how to quickly vet people for trustworthiness. You don't want to admit people that'll edit pages down to "it is just the flu, losers".
+People getting GitHub accounts to do this work may be happy to pick a pseudo-name that doesn't identify them. With that, each subgroup should work out how to trust the contributors and how to quickly vet people for trustworthiness. You don't want to admit people that'll edit pages down to "it is just the flu, losers".
 
 # GitHub savvy coder/developers...
 
-1. Git clone https://github.com/ventilate-schools/AB # don't fork it on GitHub
+1. Git clone <https://github.com/ventilate-schools/AB>. Do not fork it on GitHub, you won't be able to donate it back (step 15)
 2. delete the .git/ directory
 3. Delete all the directies that contain Alberta schools. They all start with a capital letter: `find . -maxdepth 1 -type d -name '[A-Z]*' -exec rm -rf {} +`
 4. Edit `make_markdown.py` to change `AB` to the name of the repo you're thinking of, like `Los_Angeles`. Also `Alberta` to `Los Angeles`. Be sure sure to delete all inside `schools = { }` first.
@@ -26,7 +26,7 @@ People getting GitHub accounts to do this work may be happy to pick a pseudo-nam
 12. Commit and push
 13. Go back into GitHub settings for that repo and turn on GitHub-Pages
 14. Go check the site online soon after
-15. File an issue in https://github.com/ventilate-schools/ventilate-schools.github.io/issues suggesting a transfer of the ownership to the 'ventilate-schools' org. Engage in the resulting convo. If completed the 'site' automatically and fairly instantly goes into https://ventilate-schools.its-airborne.org/Los_Angeles (or whatever). 
+15. File an issue in <https://github.com/ventilate-schools/ventilate-schools.github.io/issues> suggesting a transfer of the ownership to the 'ventilate-schools' org. Engage in the resulting convo. If completed the 'site' automatically and fairly instantly goes into <https://ventilate-schools.its-airborne.org/Los_Angeles> (or whatever). 
 16. Continue providing some form of leadership for `Los_Angeles` (or whatever)
 
 You can also engage @Its_Airborne on Twitter/X.com to discuss things. 
