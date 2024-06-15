@@ -51,7 +51,7 @@ See [Grading schools](grading.md) for a breakdown of what each grade means.
 
 # DIY air filters
 
-A cash-strapped school is going to accept the donation of these, so y'all are going to want to see what they look like
+A cash-strapped school is going to accept the donation of these, so y'all are going to need to see what they look like:
 
 <div>
    <!-- thanks to https://rushabhshahprograms.github.io/ImageSlider-Frontend for the slider -->
