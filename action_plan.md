@@ -44,6 +44,8 @@ In 2024, better classrooms are already sealed against outside heat, cold, and po
 4. We also need legislation that requires the completion of such work in classrooms. The legislation should also certify that the work has been done, inspections to ensure the work is correct, and measures to intervene if the work is not correct.
 5. Make it safe in schools for those wanting to wear masks (kids or teachers). We're not going to recommend masks for everyone in a school setting - this site is about pushing for long-term ventilation, air filtration/cleaning, and CO&#8322; monitoring to drive those.
 
+Note: Ionization of the air is not recommended as it creates ozone, which is harmful to people. Upper room ultraviolet technology may play a part in virus inactivation as the technology reaches mass production.
+
 **We should not wait for #4 before getting started on #1, #2, and #3.**
 
 Ideally, #1 & #2 are engineered solutions, fitted by experts and licensed building contractors. You don't have to wait - freestanding works to fill a gap, and the DIY options (see below) are cheap and effective. They are affordable enough to be donated by parent groups. See the *5th Graders Make...* video below.

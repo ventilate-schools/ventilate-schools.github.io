@@ -3,7 +3,7 @@ layout: page
 title: Schools Ventilation Project
 ---
 
-# Rationale as a Haiku
+# Rationale for this site .. as a Haiku
 
 <div>
 In halls of learning,<br>
@@ -25,21 +25,21 @@ COVID-19 has weakened people's immune systems to many diseases. Those could be r
 
 We have to lower transmission in schools as kids bring it home to parents, too. We **know exactly how to do this** _without_ putting everyone in masks, making people attend school remotely, or implementing any form of lockdown again.
 
-# Related reading on the rationale for this site
+# More detailed reading on the rationale for this site
 
-1. See [COVID-19 Is Airborne](covid_is_airborne.md) to learn how it was known from the start that Covid19 is primarily airborne and the WHO engaged in mis-information to tell governments that is was not
-2. See [Ventilation Work Needed in order to get schools to healthy full attendance](ventilation_work_needed.md)
-3. See our [Action Plan](action_plan.md)
+1. See [COVID-19 Is Airborne](covid_is_airborne.md) to learn how it was known from the start that COVID-19 is primarily airborne and the WHO engaged in their own mis-information and told the world that is was not (Feb 11th 2020).
+2. See [Ventilation work needed in order to get schools to healthy full attendance](ventilation_work_needed.md)
+3. See our [Action plan](action_plan.md)
 
 # Mapping the world's schools
 
-* UK: **[Wales](Wales/)**, [**Isle of Man**](https://ventilate-schools.its-airborne.org/IoM/)
 * **[USA](USA/)** - just a few states for now, some partial at that
 * **[Canada](Canada/)** - just a couple of provinces for now
+* UK: **[Wales](Wales/)**, [**Isle of Man**](https://ventilate-schools.its-airborne.org/IoM/)
 
 You're invited to help edit the data within. Sake a look at one of the Welsh schools and see what is marked as TODO. We have some advice on [contributing and rules](./contributing-and-rules/), some [tools for working on per school entries](./tools-for-working-on-entries/), and a [discussion of the technologies we use for this site](./site-technologies/)
 
-You're also invited to help create a list of schools for your country, state, province, region or large city - contact @Its_Airborne on Twitter/X.com. See [more areas - howto](more_areas.md)
+You're also invited to help create a list of schools for your country, state, province, region or large city - See [more areas - howto](more_areas.md)
 
 If Welsh schools get some traction on this site, we will be open to other countries. For now, we just want every Welsh school graded, then some of them moving in the right direction, before launching a campaign for more areas of the world.
 
@@ -51,7 +51,7 @@ See [Grading schools](grading.md) for a breakdown of what each grade means.
 
 # DIY air filters
 
-## Pics
+A cash-strapped school is going to accept the donation of these, so y'all are going to want to see what they look like
 
 <div>
    <!-- thanks to https://rushabhshahprograms.github.io/ImageSlider-Frontend for the slider -->
@@ -129,8 +129,6 @@ See [Grading schools](grading.md) for a breakdown of what each grade means.
         });
     </script>
 </div>
-
-Note: Ionization of the air is not recommended as it creates ozone, which is harmful to people. Upper room ultraviolet technology may play a part in virus inactivation as the technology reaches mass production.
 
 ## Resources
 

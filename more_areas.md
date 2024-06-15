@@ -28,3 +28,5 @@ People getting GitHub accounts to do this work may be happy to pick a pseudo-nam
 14. Go check the site online soon after
 15. File an issue in https://github.com/ventilate-schools/ventilate-schools.github.io/issues suggesting a transfer of the ownership to the 'ventilate-schools' org. Engage in the resulting convo. If completed the 'site' automatically and fairly instantly goes into https://ventilate-schools.its-airborne.org/Los_Angeles (or whatever). 
 16. Continue providing some form of leadership for `Los_Angeles` (or whatever)
+
+You can also engage @Its_Airborne on Twitter/X.com to discuss things. 
