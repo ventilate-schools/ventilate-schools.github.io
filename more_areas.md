@@ -30,3 +30,8 @@ People getting GitHub accounts to do this work may be happy to pick a pseudo-nam
 16. Continue providing some form of leadership for `Los_Angeles` (or whatever)
 
 You can also engage @Its_Airborne on Twitter/X.com to discuss things. 
+
+**See also:**
+
+* Our [site technologies](./site-technologies/)
+* Our [tools for working on entries](./tools-for-working-on-entries/)
