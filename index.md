@@ -13,7 +13,7 @@ Safe breaths everywhere.
 
 # Contribute
 
-So, this is a wiki - like Wikipedia, but for schools and their air-quality. You can contribute to this wiki by editing the pages here. Look for "edit this page" links at the bottom of each page. and ready the [contributing and rules](contributing-and-rules.md) guide.
+This site is a "wiki" like Wikipedia, but for schools and their air-quality. You can contribute to this wiki by editing the pages here. Look for "edit this page" links at the bottom of each page. and ready the [contributing and rules](contributing-and-rules.md) guide.
 
 # NEWS
 
@@ -25,17 +25,11 @@ COVID-19 has weakened people's immune systems to many diseases. Those could be r
 
 We have to lower transmission in schools as kids bring it home to parents, too. We **know exactly how to do this** _without_ putting everyone in masks, making people attend school remotely, or implementing any form of lockdown again.
 
-## COVID is Airborne (a fact suppressed at the start)
+# Related reading on the rationale for this site
 
-See [COVID Is Airborne](covid_is_airborne.md)
-
-# Ventilation work for schools allowing healthy full attendance
-
-See [Ventilation Work Needed ](ventilation_work_needed.md)
-
-# Schools ventilation action plan
-
-See our [Action Plan](action_plan.md)
+1. See [COVID-19 Is Airborne](covid_is_airborne.md) to learn how it was known from the start that Covid19 is primarily airborne and the WHO engaged in mis-information to tell governments that is was not
+2. See [Ventilation Work Needed in order to get schools to healthy full attendance](ventilation_work_needed.md)
+3. See our [Action Plan](action_plan.md)
 
 # Mapping the world's schools
 
@@ -45,11 +39,7 @@ See our [Action Plan](action_plan.md)
 
 You're invited to help edit the data within. Sake a look at one of the Welsh schools and see what is marked as TODO. We have some advice on [contributing and rules](./contributing-and-rules/), some [tools for working on per school entries](./tools-for-working-on-entries/), and a [discussion of the technologies we use for this site](./site-technologies/)
 
-You're also invited to help create a list of schools for your country, state, province, region or large city - contact @Its_Airborne on Twitter/X.com
-
-# Adding Other countries?
-
-Other countries may be listed here later. Or states/provinces, or even cities if the list of schools would be too large otherwise. Each of these would need (say) ten people willing to oversee the setup and curation of each school's page. Some of those people should be individuals with significant GitHub skills - maybe software developers who're COVID-is-airborne savvy and have kids themselves. Or a school's IT teacher who doesn't want to get reinfected with COVID again.
+You're also invited to help create a list of schools for your country, state, province, region or large city - contact @Its_Airborne on Twitter/X.com. See [more areas - howto](more_areas.md)
 
 If Welsh schools get some traction on this site, we will be open to other countries. For now, we just want every Welsh school graded, then some of them moving in the right direction, before launching a campaign for more areas of the world.
 
