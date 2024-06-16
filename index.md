@@ -35,13 +35,14 @@ We have to lower transmission in schools as kids bring it home to parents, too. 
 
 * **[USA](USA/)** - just a few states for now, some partial at that
 * **[Canada](Canada/)** - just a couple of provinces for now
-* UK: **[Wales](Wales/)**, [**Isle of Man**](https://ventilate-schools.its-airborne.org/IoM/)
+* UK: **[Wales](Wales/)** - all schools, [**Isle of Man**](https://ventilate-schools.its-airborne.org/IoM/)
+* [Republic of Ireland](Ireland/) - all schools.
 
-You're invited to help edit the data within. Sake a look at one of the Welsh schools and see what is marked as TODO. We have some advice on [contributing and rules](./contributing-and-rules/), some [tools for working on per school entries](./tools-for-working-on-entries/), and a [discussion of the technologies we use for this site](./site-technologies/)
+You're invited to help edit the data within. Sake a look at one of the many schools listed and see what is marked as TODO. The intention is for you to fix one or more TODO-marked facts wiki-style. We have some advice on [contributing and rules](./contributing-and-rules/), some [tools for working on per school entries](./tools-for-working-on-entries/), and a [discussion of the technologies we use for this site](./site-technologies/)
 
 You're also invited to help create a list of schools for your country, state, province, region or large city - See [more areas - howto](more_areas.md)
 
-If Welsh schools get some traction on this site, we will be open to other countries. For now, we just want every Welsh school graded, then some of them moving in the right direction, before launching a campaign for more areas of the world.
+If schools listed so far get some traction on this site, we will keep going to list other countries. Success would be every school we have listed so far graded, and have some more proseful commentary.
 
 # Grading of schools
 
