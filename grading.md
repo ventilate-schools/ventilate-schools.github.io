@@ -23,7 +23,7 @@ Note: [NDIR sensors are superior to VOC types](https://en.wikipedia.org/wiki/Car
   * CO2 Level: Often above 2000 ppm when fully occupied.
 * Classroom Density: High classroom density (2 to 2.5 students per square meter).
 
-## Grade 2 (below average)
+## Grade 2 (basic)
 
 * Fresh Air Ventilation: Basic mechanical ventilation without automation. HVAC system with basic filters.
 * Recirculation Air Cleaning/Filtering: Basic air filters or air cleaning mechanisms with limited efficiency.
@@ -32,7 +32,7 @@ Note: [NDIR sensors are superior to VOC types](https://en.wikipedia.org/wiki/Car
   * CO2 Level: Mostly below 1500 ppm when fully occupied.
 * Classroom Density: Moderate classroom density (1.5 to 2 students per square meter).
 
-## Grade 3 (average)
+## Grade 3 (getting there)
 
 * Fresh Air Ventilation: Mechanical ventilation with basic heat recovery, partially integrated with CO2 monitoring.
 * Recirculation Air Cleaning/Filtering: HVAC system exists with basic air filtering capabilities.
