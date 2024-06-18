@@ -59,3 +59,5 @@ Note: [NDIR sensors are superior to VOC types](https://en.wikipedia.org/wiki/Car
   * CO2 Level: Always below 700 ppm when fully occupied.
 * Classroom Density: Very low classroom density (< 0.5 students per square meter).
 * The country/state/province/city in question has building codes for schools (old or new) and performs inspections.
+
+* [Edit this page](https://github.com/ventilate-schools/ventilate-schools.github.io/edit/main/grading.md).
