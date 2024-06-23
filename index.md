@@ -13,9 +13,9 @@ Safe breaths everywhere.
 
 # Summary of action plan
 
-1. Kids, parents, teachers (KPTs) check their school page in this site
-2. KPTs compare their school to others locally and elsewhere
-3. KPTs gently pressure their school to do something about their poor ventilation
+1. Kids, parents, teachers (KPTs) check their school's page on this site and fix inaccuracies
+2. KPTs then compare their school to others locally and elsewhere
+3. Lastly KPTs gently pressure their school to do something about their poor ventilation, get involved in improvements including donation of DIY air filters
 
 # Contribute
 
