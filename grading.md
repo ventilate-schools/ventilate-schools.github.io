@@ -8,6 +8,7 @@ Note: [NDIR sensors are superior to VOC types](https://en.wikipedia.org/wiki/Car
 ## Grade 0 (very poor)
 
 * Fresh Air Ventilation: No mechanical ventilation or HVAC system. No windows or sealed windows that cannot be opened.
+* Permanently closed windows aids temperature control but with a high cost of increased airborne disease transmission.
 * Recirculation Air Cleaning/Filtering: No air filters or air cleaning mechanisms.
 * PM2.5 Measurement: No PM2.5 monitoring.
 * CO2 Monitoring (VOC or NDIR): No constant CO2 monitoring - maybe a unit is carried from room to room for spot checks.
@@ -16,7 +17,8 @@ Note: [NDIR sensors are superior to VOC types](https://en.wikipedia.org/wiki/Car
 
 ## Grade 1 (poor)
 
-* Fresh Air Ventilation: Windows can be opened but no mechanical ventilation.
+* Fresh Air Ventilation: Windows can be opened but no mechanical ventilation. 
+* Open and closinhg of windows reduces airborne disease transmission a little, but doesn't work in every country due to the severity of the winter and/or summer.
 * Recirculation Air Cleaning/Filtering: No HVAC system or limited to only heating/cooling. No air filters or substandard filters.
 * PM2.5 Measurement: No PM2.5 monitoring.
 * CO2 Monitoring (VOC or NDIR): CO2 monitoring intermittent and not automating ventilation.
