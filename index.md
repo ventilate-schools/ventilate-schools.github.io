@@ -11,6 +11,12 @@ Air flows with wisdom and care,<br>
 Safe breaths everywhere.
 </div>
 
+# Summary of action plan
+
+1. Kids, parents, teachers (KPTs) check their school page in this site
+2. KPTs compare their school to others locally and elsewhere
+3. KPTs gently pressure their school to do something about their poor ventilation
+
 # Contribute
 
 This site is a "wiki" like Wikipedia, but for schools and their air-quality. You can contribute to this wiki by editing the pages oneline. Look for "edit this page" links at the bottom of each page and read the [contributing and rules](contributing-and-rules.md) guide.
