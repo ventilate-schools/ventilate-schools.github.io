@@ -19,7 +19,7 @@ Safe breaths everywhere.
 
 # Contribute
 
-This site is a "wiki" like Wikipedia, but for schools and their air-quality. You can contribute to this wiki by editing the pages oneline. Look for "edit this page" links at the bottom of each page and read the [contributing and rules](contributing-and-rules.md) guide.
+This site is a "wiki" like Wikipedia, but for schools and classroom indoor climate - which includes the thermal envrionment and air-quality. You can contribute to this wiki by editing the pages oneline. Look for "edit this page" links at the bottom of each page and read the [contributing and rules](contributing-and-rules.md) guide.
 
 # NEWS
 
