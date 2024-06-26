@@ -11,11 +11,15 @@ Air flows with wisdom and care,<br>
 Safe breaths everywhere.
 </div>
 
-# Summary of action plan
+# Summary of action plan steps:
 
-1. Kids, parents, teachers (KPTs) check their school's page on this site and fix inaccuracies
-2. KPTs then compare their school to others locally and elsewhere
-3. Lastly KPTs gently pressure their school to do something about their poor ventilation, get involved in improvements including donation of DIY air filters
+1. Kids, parents, teachers (KPTs) check their school's page on this site
+2. KPTs add detail & fix inaccuracies in those pages
+2. KPTs compare their school to others (local or elsewhere)
+3. KPTs pressure their school to improve their poor ventilation, and:
+   4. get involved in improvements including donation of DIY air filters
+   5. pressure the school board and government
+   6. build consensus with other KPTs
 
 # Contribute
 
