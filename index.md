@@ -158,7 +158,7 @@ A cash-strapped school is going to accept the donation of these, so y'all are go
 * Latvia: [CO2 monitors in 875 schools and social centers / 14000 classrooms](https://co2.mesh.lv/)
 * Connecticut: Schools have a [state-wide grant for HVAC work to tap into](https://portal.ct.gov/das/grants/hvac-grants?language=en_US) and a [resource on terminology including DIY air filters](https://portal.ct.gov/hvacgrants/-/media/das/office-of-grants-administration/hvac-forms/air-cleaner-and-air-purifier-technology-guidance.pdf)
 * French group "Nous Aerons" (Let's Air) lists [dashboards that show live CO2 levels for classrooms](https://nousaerons.fr/#dashboards). Their list includes many of the above.
-* Australian activists have created [Covid Safety for Schools](https://www.covidsafetyforschools.org/) which is a comprehensive resource for teachers, parents, and students. The materials are initially for Australia but are applicable to any other country on earth. 
+* Australian activists have created [Covid Safety for Schools](https://www.covidsafetyforschools.org/) which is a comprehensive resource for teachers, parents, and students. The materials are initially for Australia but are applicable to any other country on earth. Watch our for their webinars.
 
 # Technologies we use and tools for fact-finding 
 
