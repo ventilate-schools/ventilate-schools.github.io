@@ -157,7 +157,7 @@ A cash-strapped school is going to accept the donation of these, so y'all are go
 * Lübeck, Germany: [CO2 monitors in 2200 classrooms and 28 nurseries](https://www.luebeck.de/de/stadtentwicklung/smart-city-luebeck/projekte-und-massnahmen/frische-luft-fuer-klare-koepfe.html). See also a [press article on that](https://www.luebeck.de/de/stadtentwicklung/smart-city-luebeck/projekte-und-massnahmen/frische-luft-fuer-klare-koepfe.html)
 * Latvia: [CO2 monitors in 875 schools and social centers / 14000 classrooms](https://co2.mesh.lv/)
 * Connecticut: Schools have a [state-wide grant for HVAC work to tap into](https://portal.ct.gov/das/grants/hvac-grants?language=en_US) and a [resource on terminology including DIY air filters](https://portal.ct.gov/hvacgrants/-/media/das/office-of-grants-administration/hvac-forms/air-cleaner-and-air-purifier-technology-guidance.pdf)
-* French group "Nous Aerons" (Let's Air) lists [dashboards that show live CO2 levels for classrooms](https://nousaerons.fr/#dashboards). Their list includes many of the above.
+* Website [Let's Air](https://letsair.org) lists [dashboards that show live CO2 levels for classrooms](https://letsair.org/#dashboards). Their list includes many of the above. The same group maintains all the same materials [in French, too](https://nousaerons.fr). 
 * Australian activists have created [Covid Safety for Schools](https://www.covidsafetyforschools.org/) which is a comprehensive resource for teachers, parents, and students. The materials are initially for Australia but are applicable to any other country on earth. Watch our for their webinars.
 
 # Technologies we use and tools for fact-finding 
